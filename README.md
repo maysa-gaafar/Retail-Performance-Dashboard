@@ -29,10 +29,10 @@ This project showcases a professional Power BI dashboard analyzing retail sales,
 ![KPIs and Slicers](./KPIs_Slicers.png)
 
 ### Monthly Sales Trend and Top Products
-![Monthly Trend and Top Products](./sales_top_products.png)
+![Monthly Trend and Top Products](./Trend_TopProducts.png)
 
 ### Sales by Category and Profit by Region
-![Donut and Region Charts](./category_region.png)
+![Donut and Region Charts](./Donut_ProfitRegion.png)
 
 ## About the Dataset
 The Superstore Sales Dataset is a publicly available dataset from Kaggle, commonly used for data visualization and dashboard projects.
